@@ -1,0 +1,49 @@
+body {
+  background-color: rgb(20 19 19 / 70%);
+}
+.container {
+  width: 500px;
+  height: auto;
+  margin: 40px auto;
+}
+.container h1 {
+  color: white;
+  font-family: math;
+}
+#poundsInput {
+  width: 65%;
+  height: 29px;
+  border-radius: 6px;
+  border: none;
+  padding: 12px;
+}
+.gram {
+  width: 65%;
+  height: 74px;
+  border-radius: 6px;
+  border: none;
+  padding: 12px;
+  background-color: #0059ffb5;
+  margin-top: 10px;
+}
+.kg {
+  width: 65%;
+  height: 74px;
+  border-radius: 6px;
+  border: none;
+  padding: 12px;
+  background-color: #138000cc;
+  margin-top: 10px;
+}
+.ounc {
+  width: 65%;
+  height: 74px;
+  border-radius: 6px;
+  border: none;
+  padding: 12px;
+  background-color: rgba(255, 0, 47, 0.858);
+  margin-top: 10px;
+}
+.res {
+  margin-top: 10px;
+}
